@@ -38,7 +38,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"table"
+                 "value":"hysp_table"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -56,7 +56,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"stage"
+                 "value":"hyp_stage"
                 }],
          "type":"tilelayer",
          "visible":true,
