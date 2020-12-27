@@ -74,7 +74,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<lobby>\/maps\/generic-assemblies.json#start_hysp"
+                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_hysp}"
                 }],
          "type":"tilelayer",
          "visible":true,
